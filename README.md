@@ -2,7 +2,7 @@
 
 A atividade proposta tinha como intuito o uso e aplicação de funções de consultas de tabelas em qualquer database. Foi utilizado o MySQL para a realização da presente atividade 
 
-# Organização 
+## Organização 
 Cada consulta/topico da atividade foi organizada em arquivos .sql 
 
  - <b>create table and insert into.sql</b> Criando tabela e 4 registros;
@@ -16,3 +16,6 @@ Cada consulta/topico da atividade foi organizada em arquivos .sql
  
  - <b>where like.sql</b> Consultando nome dos funcionarios que contem a letra "a" no nome;
  - <b>where or.sql</b> Consultando funcionario com salario maior que 1000 ou idade maior que 45;
+
+## Results
+A pasta "results" contem todos os resultados visuais das consultas na tabela.
