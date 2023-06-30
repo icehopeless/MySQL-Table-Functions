@@ -3,5 +3,5 @@
 use database_name;
 
 select MAX(nota) as notamax
-from aluno 
+from (table_name)
 group by nota
