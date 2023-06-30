@@ -1,5 +1,5 @@
 # Consultar a nota minima agrupada por turma
 
 select MIN(nota) as notaminima
-from aluno 
+from (table_name)
 group by nota
