@@ -1,6 +1,6 @@
 # Atividade DBMS MySQL sobre Funções de consulta em tabelas CEFET-MG
 
-A atividade proposta tinha como intuito o uso e aplicação de funções de consultas de tabelas em qualquer database. Foi utilizado o MySQL para a realização da presente atividade 
+Arquivos de exemplos das consultas realizadas nas atividades propostas da disciplica de Banco de Dados no CEFET-MG.
 
 ## Organização 
 Cada consulta/topico da atividade foi organizada em arquivos .sql 
