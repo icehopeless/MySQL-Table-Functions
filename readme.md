@@ -15,7 +15,7 @@ Cada consulta/topico da atividade foi organizada em arquivos .sql
  - <b>where and.sql</b> Consultando com duas condições;
  
  - <b>where like.sql</b> Consultando com operador like;
- - <b>where or.sql</b> Consultando com operador or
+ - <b>where or.sql</b> Consultando com operador or <br>
 ...
 
 ## Results
