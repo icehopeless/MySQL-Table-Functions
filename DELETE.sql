@@ -1,4 +1,4 @@
-/*   Deletar todos os registros, depois apagar a tabela, depois apagar o banco
+/*   Deletar todos os registros
 
 */
 
