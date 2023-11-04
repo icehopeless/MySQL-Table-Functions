@@ -30,6 +30,8 @@ A pasta "results" contem todos os resultados visuais das consultas na tabela.
 - <a href="https://docs.google.com/document/d/1SaHHb6XNqiftI-VO2XBvbs8CR2ibjm-_6KZrD2sGDOw/edit?usp=sharing">Relatorio 6</a> <br>
 - <a href="https://docs.google.com/document/d/1W_8zYe41TpRwSKCjlG2VYnvR3PiY1mDVv9EjsslBRjM/edit?usp=sharing">Relatorio 7 - Join's</a>
 - <a href="https://docs.google.com/document/d/1Zu4tTLtGqusum6kzObPIbxLCtu5ianb4erNxuTG5zgM/edit?usp=sharing">Relatorio 8 - Views</a>
+- <a href="https://docs.google.com/document/d/1sWFr8ktCv_tXoGeGgDjdyO_D4XBgItsDvzY8tVmL4Uc/edit?usp=sharing">Relatorio 9 - Views, Procedures, Triggers</a>
+
 
 
 
